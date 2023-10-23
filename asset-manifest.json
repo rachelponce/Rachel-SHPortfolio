@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rachel-SHPortfolio/static/css/main.92ea1ddd.css",
+    "main.js": "/Rachel-SHPortfolio/static/js/main.755e04af.js",
+    "static/media/revicons.eot": "/Rachel-SHPortfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Rachel-SHPortfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Rachel-SHPortfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Rachel-SHPortfolio/index.html",
+    "main.92ea1ddd.css.map": "/Rachel-SHPortfolio/static/css/main.92ea1ddd.css.map",
+    "main.755e04af.js.map": "/Rachel-SHPortfolio/static/js/main.755e04af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ea1ddd.css",
+    "static/js/main.755e04af.js"
+  ]
+}
