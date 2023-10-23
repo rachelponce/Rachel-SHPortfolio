@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "ChompSci",
+    "desc": [],
+    "img": "assets/projects/ChompSci Logo.png"
+  },
+  {
+    "id": 2,
+    "title": "Two",
+    "desc": [],
+    "img": "assets/projects/code-2.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Three",
+    "desc": [],
+    "img": "assets/projects/code-3.jpeg"
+  }
+]
